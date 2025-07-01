@@ -628,9 +628,65 @@ Continue building your app on:
 
 **[https://v0.dev/chat/projects/hMqnWk80fYS](https://v0.dev/chat/projects/hMqnWk80fYS)**
 
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+{
+  "name": "FTP Commercial License",
+  "description": "Official Commercial License granting rights to use the SDKP–EOS–SD&N–QCC framework for enterprise-grade, for-profit applications. Created by Donald Paul Smith (Father Time). Must credit the author in all commercial uses.",
+  "image": "ipfs://bafkreihq6bo77naumgr44sigk7xgnriqs5otbabmghxxfjmlfoivjyiq7q/ftp-commercial-license.svg",
+  "external_url": "https://fathertimesdkp.github.io/skills-getting-started-with-github-copilot/donald_paul_smith_badge.html",
+  "attributes": [
+    {
+      "trait_type": "License Type",
+      "value": "Commercial"
+    },
+    {
+      "trait_type": "Royalty",
+      "value": "17.5%"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 0
+    },
+    {
+      "trait_type": "Origin Timestamp",
+      "value": "January 18, 2025"
+    },
+    {
+      "trait_type": "Framework",
+      "value": "SDKP–EOS–SD&N–QCC"
+    },
+    {
+      "trait_type": "Author",
+      "value": "Donald Paul Smith (Father Time)"
+    },
+    {
+      "trait_type": "Physical Review Ack",
+      "value": "LB18832 - February 13, 2025"
+    },
+    {
+      "trait_type": "Chainlink Timestamp",
+      "value": "2025-05-25T19:25:37.834255Z"
+    },
+    {
+      "trait_type": "IP Claims",
+      "value": "SDKP, SD&N, QCC, EOS, TimeSeal"
+    },
+    {
+      "trait_type": "SDT Equation",
+      "value": "T ∝ S/D"
+    },
+    {
+      "trait_type": "Core Theory",
+      "value": "Time emerges from Scale/Density structure"
+    },
+    {
+      "trait_type": "Empirical Validation",
+      "value": "SDKP gravitational simulations validate framework across scales"
+    },
+    {
+      "trait_type": "Scientific Method",
+      "value": "Classical gravity enhanced by SDKP adjustments with entropy correlations"
+    }
+  ],
+  "seller_fee_basis_points": 1750,
+  "fee_recipient": "0x311540cD8761e15F0B01aaa6Fe0F7E8f583B4Bf7"
+}
